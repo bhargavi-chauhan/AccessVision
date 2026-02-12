@@ -1,17 +1,3 @@
-# Real-time YOLO detection
-
-# Direction awareness (left / center / right)
-
-# Distance estimation (far → very close)
-
-# Scene change narration
-
-# Speech cooldown control
-
-# Smooth webcam performance
-# -------------------------------
-
-
 import cv2
 import time
 import subprocess
@@ -137,3 +123,4 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+
