@@ -1,5 +1,5 @@
 # AccessVision
-Real-Time Context-Aware Object Detection with Voice Feedback. 
+_Real-Time Context-Aware Object Detection with Voice Feedback._ 
 
 ### Features:
 ✅ Real-Time Object Detection using YOLOv8 (Nano model)
